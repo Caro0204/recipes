@@ -1,0 +1,2 @@
+export const apikey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdpbGNqY3NhaGVzdW56dmhlZmhiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTIwNDczNzMsImV4cCI6MjAyNzYyMzM3M30.2--zLUrzqIn6sn_1uqPlqRrPLoK0yf0gVl0XewU7cso";
+export const endpoint = "https://gilcjcsahesunzvhefhb.supabase.co/rest/v1/Opskrifter";
